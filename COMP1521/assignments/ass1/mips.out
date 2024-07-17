@@ -1,0 +1,9 @@
+Welcome to 1521 breakout! In this game you control a paddle (---) with
+the a and d (or A and D for fast movement) keys, and your goal is
+to bounce the ball (*) off of the bricks (digits). Every ten bricks
+destroyed spawns an extra ball. The . key will advance time one step.
+
+Enter the width of the playing field: 
+
+You win! Congratulations!
+Final score: 0

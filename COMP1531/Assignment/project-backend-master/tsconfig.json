@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "target": "es2015",
+    "module": "commonjs"
+  },
+  "exclude": [
+    "**/**_broken.ts"
+  ],
+}
+
