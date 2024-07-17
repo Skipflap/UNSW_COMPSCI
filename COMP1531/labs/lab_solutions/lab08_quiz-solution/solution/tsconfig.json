@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "esModuleInterop": true,
-    "noEmit": true,
-    "resolveJsonModule": true,
-    "moduleResolution": "node"
-  }
-}
